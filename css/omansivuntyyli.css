@@ -132,4 +132,8 @@ footer a {
         padding: 15px;
         text-align: center;
     }
+
+    .keltvyö img {
+        width: 50%;
+    }
 }
